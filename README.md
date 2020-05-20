@@ -84,6 +84,9 @@ In order to show a graph that allows us to see an advance between the initial an
 <img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res1.PNG" height="350">
 </p>  
 <p align="center">
+<img src="https://github.com/Cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res1.png" height="350">
+</p>  
+<p align="center">
 <img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res2.PNG" height="350">
 </p>  
 
