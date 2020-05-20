@@ -36,46 +36,46 @@ For this project we also worked with different types of appropriate meshes to ha
 ###### Mazes
 Shows different mazes through which the patient will have to move without colliding against the walls in order to collect one or two coins in the shortest time.
 <p align="center">
-<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/lab1.JPG" height="350">
+<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/lab1.jpg" height="350">
 </p>  
 
 ###### Drills
 This motor exercise will show different walls with marks to be drilled by the patient.
 The user must drill different holes on a wall with pre-set targets, the patient must drill all holes in the shortest possible time and with the least amount of impact outside the targets. In this exercise there is also a slider that allows you to configure the weight of the drill, so the patient's effort must be constant, unlike the previous exercise.
 <p align="center">
-<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/tal1.JPG" height="350">
+<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/tal1.jpg" height="350">
 </p>  
 
 ###### Puzzle
 This motor exercise will show different puzzles that must be correctly assembled by the patients.
 In this exercise, the game interface has a slider to control the weight level of the pieces, two areas of information on patient performance.
 <p align="center">
-<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/rom1.PNG" height="350">
+<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/rom1.png" height="350">
 </p>  
 
 ###### Doctor's Office
 This exercise will show different scenarios in which the patient must place different virtual objects in the indicated place. The user must place the largest number of pieces in the correct place, in a set time. This exercise differs from the previous ones because the user, when picking up a piece, receives a force feedback on each of its edges.
 <p align="center">
-<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/lab1.PNG" height="350">
+<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/con1.png" height="350">
 </p>  
 
 ## User Interfaz-Menu
 ###### LOGIN
 In this scene, the patient enters their ID to start each therapy, if the entered ID is registered or different options are not displayed. In addition, from this scene the elimination of a patient is handled and a SEE PATIENTS button that opens the consultation scene.
 <p align="center">
-<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/login.PNG" height="350">
+<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/login.png" height="350">
 </p>  
 
 ###### MAIN MENU
 This scene opens when the patient has started the therapy session, here are buttons to access each of the motor games. In addition, there is a PREVIOUS SESSIONS button that opens the consultation scene and an END SESSION button that allows ending therapy.
 <p align="center">
-<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/menu.PNG" height="350">
+<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/menu.png" height="350">
 </p>  
 
 ###### Data base screen 
 In this scene, the information corresponding to his personal data is displayed at the top and, at the bottom, all the sessions that the patient has had are displayed, along with information on the performance of each exercise.
 <p align="center">
-<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/database.PNG" height="350">
+<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/database.png" height="350">
 </p>  
 
 ## Results
@@ -83,17 +83,14 @@ In order to show a graph that allows us to see an advance between the initial an
 
 <p align="center">
 <img src="https://github.com/Cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res1.png" height="350">
-</p>  
 
-<p align="center">
 <img src="https://github.com/Cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res2.png" height="350">
 </p>  
 
-<p align="center">
-<img src="https://github.com/Cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res3.png" height="350">
-</p>  
+ 
 
 <p align="center">
+<img src="https://github.com/Cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res3.png" height="350">
 <img src="https://github.com/Cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res4.png" height="350">
 </p>  
 
