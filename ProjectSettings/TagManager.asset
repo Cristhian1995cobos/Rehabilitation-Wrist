@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - paredes
+  - llegada
+  - piezas
+  - llegada2
+  - llegada1
+  - referencia
+  - instrucciones
+  - piezas2
+  - cubo
+  - base
+  - cilindro
+  - hexa
+  - octa
+  - triangulo
+  - cubo_peque
+  - cilindro_peque
+  - triangulo_peque
+  - octa_peque
+  - rojo1
+  - rojo2
+  - rojo3
+  - verde1
+  - verde2
+  - verde3
+  - azul1
+  - azul2
+  - azul3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

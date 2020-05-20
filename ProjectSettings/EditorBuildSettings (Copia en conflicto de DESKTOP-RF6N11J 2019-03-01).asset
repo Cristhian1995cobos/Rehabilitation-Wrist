@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MENU PRINCIPAL.unity
+    guid: 94175de377d99ce4992e8bdb3e381abc
+  - enabled: 1
+    path: Assets/Scenes/MENULABERINTOS.unity
+    guid: 7984ac3d01be76542a4f06b29198597f
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/5836fed053e7fa6478a03216ffaa4bf2
+    guid: 5836fed053e7fa6478a03216ffaa4bf2
+  - enabled: 1
+    path: Assets/Scenes/laberintonivel1sinregistro.unity
+    guid: d56aa1c21d697be46aaea9f4bce15e7e
+  - enabled: 1
+    path: Assets/Scenes/laberintonivel2.unity
+    guid: 38e70de8b6df5f94eae4854639c0d7dd
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/laberintonivel3.unity
+    guid: 846c30ab5f081b54db14f5ef35764174
+  m_configObjects: {}
