@@ -80,21 +80,20 @@ In this scene, the information corresponding to his personal data is displayed a
 
 ## Results
 In order to show a graph that allows us to see an advance between the initial and final situation of the patients, an analysis of time and errors was carried out. Next, an image is presented with the most notable results obtained.
-<p align="center">
-<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res1.PNG" height="350">
-</p>  
+
 <p align="center">
 <img src="https://github.com/Cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res1.png" height="350">
 </p>  
+
 <p align="center">
-<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res2.PNG" height="350">
+<img src="https://github.com/Cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res2.png" height="350">
 </p>  
 
 <p align="center">
-<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res3.PNG" height="350">
+<img src="https://github.com/Cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res3.png" height="350">
 </p>  
 
 <p align="center">
-<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res4.PNG" height="350">
+<img src="https://github.com/Cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/res4.png" height="350">
 </p>  
 
