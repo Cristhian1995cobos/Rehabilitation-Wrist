@@ -43,8 +43,7 @@ Shows different mazes through which the patient will have to move without collid
 This motor exercise will show different walls with marks to be drilled by the patient.
 The user must drill different holes on a wall with pre-set targets, the patient must drill all holes in the shortest possible time and with the least amount of impact outside the targets. In this exercise there is also a slider that allows you to configure the weight of the drill, so the patient's effort must be constant, unlike the previous exercise.
 <p align="center">
-<img src="https://github.com/cristhian1995cobos/Rehabilitation-Wrist/blob/master/Captures/tal1.jpg" height="350">
-<img src="Captures/system.PNG" class="img-responsive" height="350"> 
+<img src="Captures/tal1.jpg" class="img-responsive" height="350"> 
 </p>  
 
 ###### Puzzle
